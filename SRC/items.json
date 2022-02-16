@@ -1,0 +1,18 @@
+[{ 
+    "title": "Notebook",
+    "id": "1",
+    "price": 520,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRunieNT9Kt2NNjqxQIHfhuoIvQSdJ4ClWJQCemkmGXPQ1wXbQ6Cd3WYe83vF40F6QTr1A&usqp=CAU"
+},
+{ 
+    "title": "Notebook 2",
+    "id": "2",
+    "price": 750,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRunieNT9Kt2NNjqxQIHfhuoIvQSdJ4ClWJQCemkmGXPQ1wXbQ6Cd3WYe83vF40F6QTr1A&usqp=CAU"
+},
+{ 
+    "title": "Notebook 3",
+    "id": "3",
+    "price": 324,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRunieNT9Kt2NNjqxQIHfhuoIvQSdJ4ClWJQCemkmGXPQ1wXbQ6Cd3WYe83vF40F6QTr1A&usqp=CAU"
+}]
